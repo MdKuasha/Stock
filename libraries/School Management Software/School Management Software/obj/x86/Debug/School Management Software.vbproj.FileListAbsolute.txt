@@ -1,0 +1,65 @@
+C:\Users\Bello Sani\Documents\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe.config
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe.config
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.vbprojResolveAssemblyReference.cache
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AboutSMS.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AddStudent.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AddTeacher.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ComputeResults.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.EnterCA.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.EnterExams.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.LoginDialog.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.MainInterface.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageStudents.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageTeachers.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageUsers.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.Resources.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.PrintReportCards.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.PrintResults.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.WelcomeScreen.resources
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.vbproj.GenerateResource.Cache
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\RdlCompile.cache
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\SMSDB.mdf
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\SMSDB_log.ldf
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.pdb
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.xml
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.exe
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.xml
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.pdb
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe.manifest
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.application
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.exe.manifest
+C:\Users\Bello Sani\Documents\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.application
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\SMSDB.mdf
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\SMSDB_log.ldf
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe.config
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe.manifest
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.application
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.exe
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.pdb
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\bin\Debug\School Management Software.xml
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.vbprojResolveAssemblyReference.cache
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AboutSMS.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AddStudent.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.AddTeacher.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ComputeResults.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.EnterCA.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.EnterExams.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.LoginDialog.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.MainInterface.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageStudents.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageTeachers.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.ManageUsers.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.Resources.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.PrintReportCards.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.PrintResults.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School_Management_Software.WelcomeScreen.resources
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.vbproj.GenerateResource.Cache
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\RdlCompile.cache
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.exe.manifest
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.application
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.exe
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.xml
+C:\Users\Bello Sani\My Stuff\VB Projects\My Projects\Visual Studio 2010\Projects\School Management Software\School Management Software\obj\x86\Debug\School Management Software.pdb

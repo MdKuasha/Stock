@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "School Management Software", "School Management Software\School Management Software.vbproj", "{6DCE8295-8077-4333-A975-88B44B1C6EAE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SMS Software Setup", "SMS Software Setup\SMS Software Setup.vdproj", "{F16F3EB3-F1DC-4266-A6F6-1714535B1E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCE8295-8077-4333-A975-88B44B1C6EAE}.Debug|x86.ActiveCfg = Debug|x86
+		{6DCE8295-8077-4333-A975-88B44B1C6EAE}.Debug|x86.Build.0 = Debug|x86
+		{6DCE8295-8077-4333-A975-88B44B1C6EAE}.Release|x86.ActiveCfg = Release|x86
+		{6DCE8295-8077-4333-A975-88B44B1C6EAE}.Release|x86.Build.0 = Release|x86
+		{F16F3EB3-F1DC-4266-A6F6-1714535B1E62}.Debug|x86.ActiveCfg = Debug
+		{F16F3EB3-F1DC-4266-A6F6-1714535B1E62}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
